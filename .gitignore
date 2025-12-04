@@ -1,0 +1,11 @@
+# python 관련
+__pycache__/
+*.py[cod]
+
+# 데이터 및 결과물 제외
+data/
+output/
+
+# OS 관련
+.DS_Store
+Thumbs.db
